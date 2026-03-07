@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Quispe Ricardo</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&vCenter=true&lines=%F0%9F%91%8B+Hello!+Welcome+to+my+profile!;My+name+is+Quispe+Ricardo." alt="Typing SVG" />
+  </a>
+</p>
+
 <h3 align="center">A passionate Backend Programmer</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
@@ -52,7 +57,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,spring,django,c" />
     <img src="https://skillicons.dev/icons?i=git,github,docker,idea,pycharm,vim,vscode,linux,arch,maven,bash" />
@@ -64,6 +69,17 @@
 <br/>
 <br>
 <br>
+
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+
 <p align="center">
-<a href="https://github.com/rchgst"><img src="https://streak-stats.demolab.com?user=rchgst&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rchgst&theme=omni&exclude={}" width="33%">
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rchgst&theme=omni&exclude={exclude}" width="33%">
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rchgst&theme=omni&utcOffset=+5" width="33%"><br>
 </p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rchgst&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rchgst&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=omni" width="50%"/></p>
+
+
+
