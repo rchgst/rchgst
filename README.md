@@ -56,11 +56,11 @@
 
 - Backend
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=java,py,spring,django,c,git,github,docker,idea,pycharm,vim,vscode,linux,arch,maven,bash,html,css,mongodb,mysql,postgresql,azure,aws,firebase,cloudflare" />
   </a>
 
-<br/>
+<p/>
 <br>
 <br>
 
