@@ -59,11 +59,7 @@
 - Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,django,c" />
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,pycharm,vim,vscode,linux,arch,maven,bash" />
-    <img src="https://skillicons.dev/icons?i=html,css" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,django,c,git,github,docker,idea,pycharm,vim,vscode,linux,arch,maven,bash,html,css,mongodb,mysql,postgresql,azure,aws,firebase,cloudflare" />
   </a>
 
 <br/>
