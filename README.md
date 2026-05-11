@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://media.tenor.com/oHJY_Ro1gkkAAAAM/cat-decived.gif"
+    src="https://gifdb.com/images/high/flying-birds-above-the-sea-anime-aesthetic-57jj9md4i2o4d3ey.gif"
     width="100%"
     height="360px"
   />
