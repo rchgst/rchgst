@@ -53,6 +53,37 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rchgst&theme=midnight-purple&hide_border=true&background=00000000" /></p>
 <p align="center"></p>
 
+---
+
+# 🐧 Filosofía Open Source
+
+<p align="center">
+  Este repositorio sigue la filosofía del <b>software libre y open source</b>:<br>
+  aprender compartiendo conocimiento, experimentar sin límites y construir sobre ideas abiertas.
+</p>
+
+<div align="center">
+
+| 💡 Principios |
+|--------------|
+| Compartir conocimiento |
+| Aprender haciendo |
+| Transparencia |
+| Colaboración |
+| Software libre |
+
+</div>
+
+<p align="center">
+  
+</p>
+
+<p align="center">
+  <i>"La mejor forma de entender un sistema es poder abrirlo, romperlo y reconstruirlo."</i>
+</p>
+
+---
+
 <p>◈ Philosophy<p/>
   
 ```Clean code, clean desktop, clean workflow.```
