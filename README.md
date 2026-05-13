@@ -41,19 +41,13 @@
 
 <div align="center">
   <br><br>
-  ⚡ Tech Stack
   <br><br>
-<p>Languages<p/>
-<img src="https://skillicons.dev/icons?i=java,c,python,mysql,bash,django,spring,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,c,python,mysql,postgresql,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=bash,django,spring,html,css,js" /><br>
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,git,github,idea" /><br>
+<img src="https://skillicons.dev/icons?i=pycharm,vscode,docker,azure,aws" /><br>
 
 <br><br>
-
-<p>Tools & Technologies<p/>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,git,github,idea,pycharm,vscode,docker" />
-
-<br><br>
-
-📈 GitHub Statistics
 <p align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rchgst&theme=midnight-purple&hide_border=true&background=00000000" /></p>
